@@ -1,0 +1,18 @@
+I've made a TiddlyWiki that is wrapped up in an Adobe AIR container as 
+a standalone app. The original TiddlyWiki still opens in a browser and 
+functions normally (although its store is kept separate in the AIR 
+app's storage directory). 
+
+Point of this: to try out a TiddlyWiki in a controlled environment 
+where "save changes" isn't a big pain. 
+
+Restrictions: cookies don't work yet; import doesn't work yet. I 
+haven't looked into these problems though. 
+
+To use: 
+- download source 
+- install AIR 
+- install AIR dev tools
+- run client.build 
+- install TiddlyAIR.air 
+

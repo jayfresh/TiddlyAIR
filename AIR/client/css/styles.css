@@ -1,0 +1,7 @@
+#loginForm {
+	background-color: aqua;
+}
+
+#loginForm .message {
+	display: none;
+}

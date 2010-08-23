@@ -1,0 +1,1 @@
+adt -package -storetype pkcs12 -keystore certs/sampleCert.pfx -storepass samplePassword ClientTests.air clientTests/ClientTests-app.xml -C client . -C clientTests .

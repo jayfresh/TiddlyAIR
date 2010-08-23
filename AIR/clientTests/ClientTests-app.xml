@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<application xmlns="http://ns.adobe.com/air/application/1.5"> 
+    <id>examples.html.Client</id> 
+    <version>0.1</version> 
+    <filename>Client</filename> 
+    <initialWindow> 
+        <content>clientTests/runner.html</content> 
+        <visible>true</visible> 
+        <width>400</width> 
+        <height>800</height> 
+    </initialWindow> 
+</application>
